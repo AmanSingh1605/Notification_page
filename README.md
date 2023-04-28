@@ -14,13 +14,13 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
--Mobile view:
+-Mobile view:  
 ![ss3](https://user-images.githubusercontent.com/125572956/235226475-0eccc4d2-b750-4e5b-8756-63b0d8c6a017.png)
 
--Desktop View:
+-Desktop View:  
 ![ss1](https://user-images.githubusercontent.com/125572956/235225959-21734f4b-3fc8-4289-b84e-030b5bbddbae.png)
 
--When clicked on unseen notification:
+-When clicked on unseen notification:  
 ![ss2](https://user-images.githubusercontent.com/125572956/235226451-6be569d5-669d-449a-9f00-1ec6824217f3.png)
 
 ## My process
